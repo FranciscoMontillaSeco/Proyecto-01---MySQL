@@ -5,6 +5,7 @@ PROYECTO 01 MySQL y MariaDB
 
 Instalación de MySQL: (contraseña ROOT | Creación de base de datos |
 Creación de usuario y permisos de manejo)
+![instalación](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/1.png)
 
 ## DISEÑO
 

@@ -1,8 +1,10 @@
 create table Circuitos(
-   id_circuito int (2) primary key ,
-   Nombre  varchar(100) not null unique,
+   id_circuito int (2)  ,
+   Nombre  varchar(100) not null,
    Longitud int (4) not null,
-   Vueltas int (3) not null
+   Vueltas int (3) not null,
+   constraint circuitos_pk primary key(id_circuito),
+   constraint circuitos_uk1 unique (Nombre)
 );
 create table Competiciones(
    id_competicion int (2) primary key ,
