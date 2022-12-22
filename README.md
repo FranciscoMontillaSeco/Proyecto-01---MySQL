@@ -1,30 +1,18 @@
 # Proyecto-01---MySQL
-Proyecto MySQL
+PROYECTO 01 MySQL y MariaDB
 
-## Creación y conexión de repositorio
+## INSTALACIÓN
 
-Creación de repositorio git\
-Añadir miembros de trabajo\
-Clonar repositorio\
-Añadir URL del repositorio\
-Push al realizar cambios
+Instalación de MySQL: (contraseña ROOT | Creación de base de datos |
+Creación de usuario y permisos de manejo)
 
-## Instalación de MySQL
+## DISEÑO
 
-Descarga de MariaDB\
-Instalación de MariaDB (con contraseña para root)\
-Creación de nueva BD\
-Creación de Usuario
+Diseño de la base de datos, tablas y esquemas y relacion de los datos.
 
-## Configuración de DataGrip
+## CONEXIÓN
 
-Nuevo proyecto en repositorio git\
-Nueva conexión a MySQL con localhost
+Conexión de MySQL con datagrip
 
-## Esquemas de la base de datos
+## CONCLUSIONES
 
-Esquema Lógico\
-Esquema Conceptual\
-Esquema Físico
-
-## Código SQL
