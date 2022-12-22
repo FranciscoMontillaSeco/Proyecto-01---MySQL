@@ -23,8 +23,19 @@ create table Pilotos(
 create table Premios(
     Posicion int references Puntos(Posicion),
     id_competicion int references Competiciones(id_competicion),
-    id_piloto int references Pilotos(id_piloto),
+    id_piloto int references Pilotos(id_piloto)
     primary key (Posicion,id_competicion,id_piloto)
 );
-
+create table Escuderia(
+   id_escuderia int (2) primary key ,
+   Nombre  varchar(30) not null unique,
+   id_piloto int references Pilotos(id_piloto),
+   Nacion varchar(30) not null
+);
+create table Fabricante(
+   id_fabricante int (2) primary key ,
+   Nombre  varchar(30) not null unique,
+   id_escuderia int references Escuderia(id_escuderia),
+   Moto varchar(30) not null unique
+);
 
