@@ -1,30 +1,26 @@
-# Proyecto-01---MySQL
-Proyecto MySQL
+# PROYECTO--MOTO-GP--MySQL
 
-## Creación y conexión de repositorio
+### CREACIÓN Y CONEXIÓN DE REPOSITORIO
+* Creación de repositorio git
+* Añadir miembros de trabajo
+* Clonar repositorio
+* Añadir URL del repositorio
+* Push al realizar cambios
 
-Creación de repositorio git\
-Añadir miembros de trabajo\
-Clonar repositorio\
-Añadir URL del repositorio\
-Push al realizar cambios
+### INSTALACIÓN DE MySQL
+1. Descarga de MariaDB
+2. Instalación de MariaDB
+3. Creación de una nueva Base de Datos
+4. Creación de usuario
+> _Jorge Sanchez, nos dijo de poner una contraseña a root_
 
-## Instalación de MySQL
+### CONFIGURACIÓN DE DATAGRIP
+* Nuevo proyecto en repositorio git
+* Nueva conexión a MySQL con localhost
 
-Descarga de MariaDB\
-Instalación de MariaDB (con contraseña para root)\
-Creación de nueva BD\
-Creación de Usuario
+### ESQUEMAS DE LA BASE DE DATOS
+* Esquema Lógico
+* Esquema Conceptual
+* Esquema Físico
 
-## Configuración de DataGrip
-
-Nuevo proyecto en repositorio git\
-Nueva conexión a MySQL con localhost
-
-## Esquemas de la base de datos
-
-Esquema Lógico\
-Esquema Conceptual\
-Esquema Físico
-
-## Código SQL
+### CÓDIGO SQL
