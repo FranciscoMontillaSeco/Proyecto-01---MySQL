@@ -1,4 +1,8 @@
-create table Pilotos (
-  id_piloto int (2),
-  constraint Pilotos_pk PRIMARY KEY (id_piloto)
+drop table pilotos;
+fdasf
+
+create table pilotos (
+    Id_piloto int(2),
+    CONSTRAINT pilotos_pk PRIMARY KEY (Id_piloto)
 );
+fdasfdsaf
