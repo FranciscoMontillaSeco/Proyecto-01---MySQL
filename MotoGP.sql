@@ -23,17 +23,8 @@ create table Pilotos(
 create table Premios(
     Posicion int references Puntos(Posicion),
     id_competicion int references Competiciones(id_competicion),
-    id_piloto int references Pilotos(id_piloto)
+    id_piloto int references Pilotos(id_piloto),
     primary key (Posicion,id_competicion,id_piloto)
 );
 
 
-
-drop database
-
-
-
-fdfa
-f
-=========
->>>>>>>>> Temporary merge branch 2
