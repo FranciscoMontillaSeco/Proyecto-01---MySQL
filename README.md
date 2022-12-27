@@ -31,4 +31,4 @@ Conexión de MySQL con datagrip
 
 ## CONCLUSIONES
 
-## RELACIÓN TABLAS BASE DE DATOS
+## RELACIÓN TABLAS BD
