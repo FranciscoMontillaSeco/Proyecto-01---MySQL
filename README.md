@@ -1,9 +1,7 @@
 # **Proyecto-01---MySQL**
-PROYECTO 01 MySQL y MariaDB
+PROYECTO A CARGO DE _FRANCISCO MONTILLA, SERGIO MAYO, PABLO DIAZ Y ÁLVARO FERNÁNDEZ_
 
-## **INSTALACIÓN**
-
-### **INSTALACIÓN DE MySQL**
+## **INSTALACIÓN DE MySQL Y MariaDB**
 Hemos elegido el poder hacer nuestro proyecto con la base de datos de **MariaDB** sobre _MySQL_ por tres razones que son las siguientes:
 
 1. **MariaDB OFRECE MEDIDAS DE SEGURIDAD MÁS ESTRICTAS**  
@@ -72,6 +70,83 @@ Como podemos observar el paquete de instalación de MariaDB nos dice que la inst
 Una vez cerrado el instalador de MariaDB podemos observar que se nos ha creado el acceso directo de MariaDB llamado "_HeidiSQL_"  
 
 ![instalacion_paso9](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/9.png)
+
+
+## HEIDI SQL
+#### ¿QUE ES HEIDI SQL?  
+HeidiSQL, inicialmente conocido como MySQL-Front, es un software libre y de código abierto que permite conectarse a MySQL, así como Microsoft SQL Server y PostgreSQL. MySQL-Front comenzó a ser desarrollado en Delphi por el programador alemán Ansgar Becker, quién por motivos personales dejó el proyecto sin terminar.  
+
+#### CONFIGURACIÓN DE HEIDI SQL
+A continución os enseñeramos a como debeis de configurar vuestra base de datos en _HeidiSQL:_  
+
+#### **PASO 1**:
+
+![configuración_paso1](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/1.png)  
+
+#### **PASO 2**:
+
+![configuración_paso2](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/2.png)  
+
+#### **PASO 3**:
+
+![configuración_paso3](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/3.png)  
+
+#### **PASO 4**:
+
+![configuración_paso4](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/4.png)  
+
+#### **PASO 5**:
+
+![configuración_paso5](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/5.png)  
+
+#### **PASO 6**:
+
+![configuración_paso6](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/6.png)  
+
+#### **PASO 7**:
+
+![configuración_paso7](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/7.png)  
+
+#### **PASO 8**:
+
+![configuración_paso8](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/8.png)  
+
+#### **PASO 9**:
+
+![configuración_paso9](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/9.png)
+
+
+## DATAGRIP
+#### ¿QUE ES DATAGRIP?  
+  
+
+#### CONFIGURACIÓN DE DATAGRIP
+A continución os enseñeramos a como debeis de configurar vuestra base de datos en _DATAGRIP:_  
+
+#### **PASO 1**:
+
+![configuración_paso1](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/1.png)  
+
+#### **PASO 2**:
+
+![configuración_paso2](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/2.png)  
+
+#### **PASO 3**:
+
+![configuración_paso3](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/3.png)  
+
+#### **PASO 4**:
+
+![configuración_paso4](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/4.png)  
+
+#### **PASO 5**:
+
+![configuración_paso5](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/5.png)  
+
+#### **PASO 6**:
+
+![configuración_paso6](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/6.png)  
+
 
 
 ## DISEÑO
