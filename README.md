@@ -5,9 +5,13 @@ PROYECTO 01 MySQL y MariaDB
 
 ### Instalación de MySQL
 En nuestro caso hemos elegido la base de datos MariaDB asique vamos a proceder con su instalación
-Paso 1: 
+#### Paso 1: 
 Vamos a dirigirnos a la [página web de MariaDB](https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.10.2&os=windows&cpu=x86_64&pkg=msi&m=ptisp) fds
 ![instalación](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/1.png)
+
+#### Paso 2:
+
+![instalacion_paso2](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/2.png)
 
 
 ## DISEÑO
