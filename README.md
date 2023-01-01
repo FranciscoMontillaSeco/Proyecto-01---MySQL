@@ -168,8 +168,8 @@ Para finalizar y comprobar que hemos hecho todos los pasos correctamente os debe
 ## DISEÑO  
 Diseño de la base de datos, tablas y esquemas y relacion de los datos.  
 
-### Creación de tablas 
-> Hemos creado siete tablas con sus respectivas relaciones y restricciones.
+### CREACIÓN DE TABLAS
+Hemos creado siete tablas con sus respectivas relaciones y restricciones.
 Las hemos relacionado de la siguiente manera:
 La tabla Pilotos la hemos relacionado con Premios mediante el id_piloto y una relación de uno a varios, tambien se ha relacionado con la tabla Escuderia mediante el id_piloto con una relación uno a varios.
 Despues hemos relaciona la tabla Fabricantes con Escuderia mediante el id_escuderia con una relación de uno a varios.
@@ -177,12 +177,13 @@ La tabla Premios salen dos relaciones, una con la tabla Puntos mediante relacion
 La tabla Competiciones se relaciona con Premios mediante id_competicion con relacion 1 a varios.
 La tabla Circuitos se relaciona con Competicones mediante id_circuito con relacion uno a uno.
 
-### Insertar Datos
-> Tenemos que mencionar que es muy parecido la  creación de tablas a Oracle SQL lo único que cambia es  que los tipos de datos numéricos se ponen con un int  y las restricciones se ponen sin un constraint y un nombre de restricción si no que se pone directamente la restricción.
+### RELACIÓN TABLAS BD
+
+### INSERTAR DATOS
+Tenemos que mencionar que es muy parecido la  creación de tablas a Oracle SQL lo único que cambia es  que los tipos de datos numéricos se ponen con un int  y las restricciones se ponen sin un constraint y un nombre de restricción si no que se pone directamente la restricción.
 
 ## CONEXIÓN
 Conexión de MySQL con datagrip
 
 ## CONCLUSIONES
 
-## RELACIÓN TABLAS BD
