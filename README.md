@@ -127,32 +127,40 @@ Como ultimo paso deberemos de rellenar todos los recuadros que nos salen bajo el
 
 ## DATAGRIP
 #### ¿QUE ES DATAGRIP?  
-  
+Es un entorno de desarrollo integrado (IDE) para desarrolladores de bases de datos, que proporciona una consola de consulta, navegación de esquemas, planes de explicación, finalización de código inteligente, análisis en tiempo real y correcciones rápidas, refactorizaciones, integración del control de versiones y otras características.  
+
 
 #### CONFIGURACIÓN DE DATAGRIP
 A continución os enseñeramos a como debeis de configurar vuestra base de datos en _DATAGRIP:_  
 
 #### **PASO 1**:
+Al abrir nuestro programa de _Datagrip_ nos tendremos que cerciorar de que tenemos los paneles de trabajo que queremos y a continuación de esto deberemos de dirigirno al icono de "+" al que tendremos que dar un clic izquierdo.  
 
 ![configuración_paso1](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/1.png)  
 
 #### **PASO 2**:
+En este paso tendremos que hacer clic en _"New"_ dar otra vez otro clic en donde pone _"Data Source"_ y a continuación sleccionaremos la opción de _"MySQL"_.  
 
 ![configuración_paso2](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/2.png)  
 
 #### **PASO 3**:
+En este paso deberemos de irnos al nuevo proyecto que hemos creado y se nos abrira una nueva ventana en la cual tendremos que configurarla como la hemos configurado nosotros, eso si, recordad que el número del puerto tiene que ser el mismo al que habeis puesto en los anteriores pasos. Para comprobar antes de aceptar deberemos de dar a donde pone _"Test Conection"_ con letras azules y si vemos que no ha habido ningún error le daremos al botón de _"Apply"_ y luego al botón de _"Ok."_  
+> En el caso de que nos salte un aviso de "Instalación de un Driver" en el momento de realizar el test de conexión deberemos de descargarnos tal driver que es el que nos permitira que nuestro proyecto no nos de ningún fallo en el futuro y ya luego deberemos de dar _"Apply"_ y luego a _"Ok."_  
 
 ![configuración_paso3](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/3.png)  
 
 #### **PASO 4**:
+A continuación del anterior paso podemos observar que ya tenemos nuestra base de datos creada en Datagrip.  
 
 ![configuración_paso4](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/4.png)  
 
 #### **PASO 5**:
+Una vez tenemos creada nuestra base de datos nos tendremos que dirigir al botón de arriba a la derecha que se asemeja a una conexión de tres dispositivos de color azul donde tendremos que dar un toque al clic izquierdo y presionar donde pone motogp que es el nombre de la base de datos que hemos creado.  
 
 ![configuración_paso5](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/5.png)  
 
 #### **PASO 6**:
+Para finalizar y comprobar que hemos hecho todos los pasos correctamente os deberá de salir una pantalla igual a la de la imagen, si es asi, ¡ya estáis preparados para crear las tablas de vuestra base de datos en Datagrip!  
 
 ![configuración_paso6](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/6.png)  
 
