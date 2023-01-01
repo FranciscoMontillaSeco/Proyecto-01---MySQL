@@ -80,38 +80,47 @@ HeidiSQL, inicialmente conocido como MySQL-Front, es un software libre y de cód
 A continución os enseñeramos a como debeis de configurar vuestra base de datos en _HeidiSQL:_  
 
 #### **PASO 1**:
+Una vez descargado el programa de _Heidi SQL_ deberemos de abrirla, una vez abierta, nos saldra una pantalla de administrador de sesiones y aqui deberemos de dar al botón que aparece abajo a la izquierda de la imagen y clicar donde pone _nueva._  
 
 ![configuración_paso1](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/1.png)  
 
 #### **PASO 2**:
+Una vez clicado en el botón de "nueva" nos saldra la configuración que tendremos que realizar en la cual tendremos que poner el usuario root con su contraseña y puerto que pusimos en el paquete de instalación.  
 
 ![configuración_paso2](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/2.png)  
 
 #### **PASO 3**:
+Ahora una vez configurado este paso daremos clic derecho en el margen izquierdo y deberemos de irnos a la opción _"crear nuevo"_ y dentro de esta opción tendremos que dar clic izquierdo en la opción de _"base de datos."_  
 
 ![configuración_paso3](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/3.png)  
 
 #### **PASO 4**:
+Como en el anterior paso clicamos en la opción de crear la base de datos ahora nos saldrá una ventana en la que tendremos que dar un nombre a nuestra base de datos.  
 
 ![configuración_paso4](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/4.png)  
 
 #### **PASO 5**:
+Ahora tendremos que clicar en el icono de dos personas para irnos al administrador de usuarios.  
 
 ![configuración_paso5](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/5.png)  
 
 #### **PASO 6**:
+Ya habiendo clicado el icono nos encontraremos actualmente con las credenciales de usuario.  
 
 ![configuración_paso6](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/6.png)  
 
 #### **PASO 7**:
+Una vez creada la credencial del nuevo usuario dejaremos la configuración tal cual esta en la imagen sin dar privilegios globales y le damos clic en el botón que pone _"guardar"_.  
 
 ![configuración_paso7](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/7.png)  
 
 #### **PASO 8**:
+Ahora que ya hemos guardado todas las configuraciones y credenciales de los usuarios de nuestra base de datos deberemos de diriginos al proyecto que en nuestro caso es _unnamed_ y desde ahi deberemos hacer clic en la flechita de la izquierda del nombre de nuestra base de datos.  
 
 ![configuración_paso8](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/8.png)  
 
 #### **PASO 9**:
+Como ultimo paso deberemos de rellenar todos los recuadros que nos salen bajo el nombre de nuestra base de datos.  
 
 ![configuración_paso9](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/9.png)
 
