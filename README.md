@@ -165,10 +165,9 @@ Para finalizar y comprobar que hemos hecho todos los pasos correctamente os debe
 ![configuración_paso6](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/6.png)  
 
 
+## DISEÑO  
+Diseño de la base de datos, tablas y esquemas y relacion de los datos.  
 
-## DISEÑO
-
-Diseño de la base de datos, tablas y esquemas y relacion de los datos.
 ### Creación de tablas 
 > Hemos creado siete tablas con sus respectivas relaciones y restricciones.
 Las hemos relacionado de la siguiente manera:
@@ -182,7 +181,6 @@ La tabla Circuitos se relaciona con Competicones mediante id_circuito con relaci
 > Tenemos que mencionar que es muy parecido la  creación de tablas a Oracle SQL lo único que cambia es  que los tipos de datos numéricos se ponen con un int  y las restricciones se ponen sin un constraint y un nombre de restricción si no que se pone directamente la restricción.
 
 ## CONEXIÓN
-
 Conexión de MySQL con datagrip
 
 ## CONCLUSIONES
