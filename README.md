@@ -25,7 +25,7 @@ Además, el software MariaDB es utilizado por algunas de las compañías más gr
 
 
 #### **PASO 1**: 
-Vamos a dirigirnos a la página web de [MariaDB](https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.10.2&os=windows&cpu=x86_64&pkg=msi&m=ptisp) y rellenamos los recuadros con los datos que aparecen en la imagen recortada.  
+Vamos a dirigirnos a la página web de [MariaDB](https://mariadb.org/download/?t=mariadb&p=mariadb&r=10.10.2&os=windows&cpu=x86_64&pkg=msi&m=ptisp) y descargamos el instalador según nuestro sistema operativo.
 >_Os recordamos que esta guía de descarga e instalación de MariaDB se ha realizado con un sistema operativo Windows 10 y 11_
 
 ![instalación](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/1.png)
@@ -42,22 +42,22 @@ En este paso nos habla del tipo de licencia que utiliza MariaDB el cual es un ti
 ![instalacion_paso3](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/3.png)
 
 #### **PASO 4**:
-En este paso ya pasamos a lo que vendría a venir siendo una configuración más personalizada en la cual nos pide que seleccionemos la forma en que queremos que se instalen las funciones de _MariaDB._ Hay un aviso que nos da este paso y es que nos avisa de que este paso de almacenaje de las funciones requiere 169 MB en nuestro disco duro.  
+En este paso ya pasamos a lo que vendría a ser una configuración más personalizada en la cual nos pide que seleccionemos de la forma en que queremos que se instalen las funciones de _MariaDB._ Hay un aviso que nos da este paso y es que nos avisa de que este paso de almacenaje de las funciones requiere 169 MB en nuestro disco duro.  
 
 ![instalacion_paso4](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/4.png)
 
 #### **PASO 5**:
-En el quinto paso nos podemos encontrar ya en los ajustes del usuario donde podremos y deberemos de meter una contraseña para lo que va a ser el usuario _root_ de nuestra base de datos, la contraseña nos mandará ponerla dos veces, un poco más abajo de estas opciones nos sale la dirección en donde se va a almacenar nuestros datos.  
+En el quinto paso nos podemos encontrar ya en los ajustes del usuario donde debemos meter una contraseña para lo que va a ser el usuario _root_ de nuestra base de datos, la contraseña nos mandará ponerla dos veces, un poco más abajo de estas opciones nos sale la dirección en donde se va a almacenar nuestros datos.  
 
 ![instalacion_paso5](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/5.png)
 
 #### **PASO 6**:
-Aqui podemos observar lo que son las propiedades de la instalación predeterminada donde estaremos configurando ya lo que es la propia base de datos de MariaDB, y lo que deberemos de hacer será seleccionar ambos recuadros que nos aparecen, y aquí debereis de poner el número del puerto TCP que hayais escogido en nuestro caso el nuestro es el 3306, a parte de esto también podeis cambiar el tamaño del buffer y el tamaño de página a vuestra forma, pero nosotros recomendamos ambos tamaños.  
+Aqui podemos observar lo que son las propiedades de la instalación predeterminada donde estaremos configurando ya lo que es la propia base de datos de MariaDB, y lo que debemos hacer será seleccionar ambos recuadros, y aquí debeis poner el número del puerto TCP que hayais escogido, en nuestro caso el nuestro es el 3306, a parte de esto también podeis cambiar el tamaño del buffer y el tamaño de página a vuestra forma, pero recomendamos no modificar este apartado.  
 
 ![instalacion_paso6](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/6.png)
 
 #### **PASO 7**:
-Ya queda poco para finalizar con el paquete de instalación de MariaDB, en este paso como podemos observar nos dice que ya tenemos todo preparado para la instalación de MariaDB en nustro ordenador, abajo a la derecha donde antes nos salia el botón de "_Next_" ahora nos sale un nuevo botón que pone "_Install_" el cual deberemos de clicar para instalar.  
+Ya queda poco para finalizar con el paquete de instalación de MariaDB, en este paso como podemos observar nos dice que ya tenemos todo preparado para la instalación de MariaDB en nustro ordenador, abajo a la derecha donde antes nos salia el botón de "_Next_" ahora nos sale un nuevo botón que pone "_Install_" el cual debemos clicar para instalar.  
 
 ![instalacion_paso7](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/7.png)
 
@@ -80,17 +80,17 @@ HeidiSQL, inicialmente conocido como MySQL-Front, es un software libre y de cód
 A continución os enseñeramos a como debeis de configurar vuestra base de datos en _HeidiSQL:_  
 
 #### **PASO 1**:
-Una vez descargado el programa de _Heidi SQL_ deberemos de abrirla, una vez abierta, nos saldra una pantalla de administrador de sesiones y aqui deberemos de dar al botón que aparece abajo a la izquierda de la imagen y clicar donde pone _nueva._  
+Una vez descargado el programa de _Heidi SQL_ debemos ejecutarlo, una vez abierto, nos saldra una pantalla de administrador de sesiones y aqui debemos dar al botón que aparece abajo a la izquierda de la imagen y clicar donde pone _nueva._  
 
 ![configuración_paso1](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/1.png)  
 
 #### **PASO 2**:
-Una vez clicado en el botón de "nueva" nos saldra la configuración que tendremos que realizar en la cual tendremos que poner el usuario root con su contraseña y puerto que pusimos en el paquete de instalación.  
+Una vez clicado en el botón de "nueva" nos saldra la configuración que tendremos que realizar, en la cual tendremos que poner el usuario root con la contraseña y puerto que hayamos elegido en la instalación.  
 
 ![configuración_paso2](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/2.png)  
 
 #### **PASO 3**:
-Ahora una vez configurado este paso daremos clic derecho en el margen izquierdo y deberemos de irnos a la opción _"crear nuevo"_ y dentro de esta opción tendremos que dar clic izquierdo en la opción de _"base de datos."_  
+Ahora una vez configurado este paso daremos clic derecho en el margen izquierdo y debemos de irnos a la opción _"crear nuevo"_, dentro de esta opción tendremos que dar clic izquierdo en la opción de _"base de datos."_  
 
 ![configuración_paso3](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/3.png)  
 
@@ -110,17 +110,17 @@ Ya habiendo clicado el icono nos encontraremos actualmente con las credenciales 
 ![configuración_paso6](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/6.png)  
 
 #### **PASO 7**:
-Una vez creada la credencial del nuevo usuario dejaremos la configuración tal cual esta en la imagen sin dar privilegios globales y le damos clic en el botón que pone _"guardar"_.  
+Una vez creada la credencial del nuevo usuario dejaremos la configuración tal cual esta en la imagen sin dar privilegios globales y le damos clic en el botón que pone _"Agregar objeto"_.  
 
 ![configuración_paso7](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/7.png)  
 
 #### **PASO 8**:
-Ahora que ya hemos guardado todas las configuraciones y credenciales de los usuarios de nuestra base de datos deberemos de diriginos al proyecto que en nuestro caso es _unnamed_ y desde ahi deberemos hacer clic en la flechita de la izquierda del nombre de nuestra base de datos.  
+Ahora vamos a elegir la base de datos sobre la que queremos darle privilegios a nuestro nuevo usuario, en nuestro caso vamos a seleccionar la base de datos _"motogp"_, que es con la que vamos a trabajar
 
 ![configuración_paso8](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/8.png)  
 
 #### **PASO 9**:
-Como ultimo paso deberemos de rellenar todos los recuadros que nos salen bajo el nombre de nuestra base de datos.  
+Ahora ya tendremos todos los privilegios sobre esta base de datos y podremos guardar el usuario que hemos creado.
 
 ![configuración_paso9](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/9.png)
 
@@ -131,10 +131,10 @@ Es un entorno de desarrollo integrado (IDE) para desarrolladores de bases de dat
 
 
 #### CONFIGURACIÓN DE DATAGRIP
-A continución os enseñeramos a como debeis de configurar vuestra base de datos en _DATAGRIP:_  
+A continución os enseñeramos a como debeis configurar vuestra base de datos en _DATAGRIP:_  
 
 #### **PASO 1**:
-Al abrir nuestro programa de _Datagrip_ nos tendremos que cerciorar de que tenemos los paneles de trabajo que queremos y a continuación de esto deberemos de dirigirno al icono de "+" al que tendremos que dar un clic izquierdo.  
+Al abrir nuestro programa de _Datagrip_ nos tendremos que cerciorar de que tenemos los paneles de trabajo que queremos y a continuación de esto debemos dirigirnos al icono de "+" sobre el que tendremos que hacer clic.  
 
 ![configuración_paso1](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/1.png)  
 
@@ -144,23 +144,23 @@ En este paso tendremos que hacer clic en _"New"_ dar otra vez otro clic en donde
 ![configuración_paso2](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/2.png)  
 
 #### **PASO 3**:
-En este paso deberemos de irnos al nuevo proyecto que hemos creado y se nos abrira una nueva ventana en la cual tendremos que configurarla como la hemos configurado nosotros, eso si, recordad que el número del puerto tiene que ser el mismo al que habeis puesto en los anteriores pasos. Para comprobar antes de aceptar deberemos de dar a donde pone _"Test Conection"_ con letras azules y si vemos que no ha habido ningún error le daremos al botón de _"Apply"_ y luego al botón de _"Ok."_  
-> En el caso de que nos salte un aviso de "Instalación de un Driver" en el momento de realizar el test de conexión deberemos de descargarnos tal driver que es el que nos permitira que nuestro proyecto no nos de ningún fallo en el futuro y ya luego deberemos de dar _"Apply"_ y luego a _"Ok."_  
+En este paso debemos irnos al nuevo proyecto que hemos creado, se nos abrira una nueva ventana en la cual tendremos que configurar la conexión con la tu usuario de la base de datos, introduciendo vuestro nombre de usuario y número de puerto (en este caso no hace falta URL puesto que es una conexión local). Para comprobar antes de aceptar debemos dar a donde pone _"Test Conection"_ con letras azules y si vemos que no ha habido ningún error le daremos al botón de _"Apply"_ y luego al botón de _"Ok."_  
+> En el caso de que nos salte un aviso de "Instalación de un Driver" en el momento de realizar el test de conexión debemos descargarnos el driver, ya que es el que nos permitira conectar correctamente con MariaDB, ahora hacemos clic en _"Apply"_ y luego en _"Ok."_  
 
 ![configuración_paso3](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/3.png)  
 
 #### **PASO 4**:
-A continuación del anterior paso podemos observar que ya tenemos nuestra base de datos creada en Datagrip.  
+Ahora, en el apartado de conexiones veremos una nueva, la cual es la conexión con MariaDB. 
 
 ![configuración_paso4](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/4.png)  
 
 #### **PASO 5**:
-Una vez tenemos creada nuestra base de datos nos tendremos que dirigir al botón de arriba a la derecha que se asemeja a una conexión de tres dispositivos de color azul donde tendremos que dar un toque al clic izquierdo y presionar donde pone motogp que es el nombre de la base de datos que hemos creado.  
+Una vez tenemos creada nuestra base de datos nos tendremos que dirigir al botón de arriba a la derecha llamado _"schema"_ y hacemos clic izquierdo sobre el, si todo está bien configurado nos tendrá que aparecer las bases de datos sobre las que tiene permisos, en este caso _"motogp"_, seleccionamos esta base de datos y ya podremos trabajar con las tablas.
 
 ![configuración_paso5](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/5.png)  
 
 #### **PASO 6**:
-Para finalizar y comprobar que hemos hecho todos los pasos correctamente os deberá de salir una pantalla igual a la de la imagen, si es asi, ¡ya estáis preparados para crear las tablas de vuestra base de datos en Datagrip!  
+Para finalizar y comprobar que hemos hecho todos los pasos correctamente podremos probar a crear una tabla o a realizar un select en el area de trabjo, si es así ya se puede empezar a trabajar.
 
 ![configuración_paso6](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/6.png)  
 
@@ -168,9 +168,13 @@ Para finalizar y comprobar que hemos hecho todos los pasos correctamente os debe
 ## DISEÑO  
 Diseño de la base de datos, tablas y esquemas y relacion de los datos.  
 
+### RELACIÓN TABLAS BD
+En esta sección podemos ver como hemos relacionado los datos y como es el resultado del diseño de nuestra base de datos.
+![Diseño de tablas](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Dise%C3%B1o%20de%20tablas/Picsart_22-12-25_18-47-23-281.jpg)
 
 ### CREACIÓN DE TABLAS
 Hemos creado siete tablas con sus respectivas relaciones y restricciones.
+Todo esto, quedará recogido en el documento .sql del proyecto.
 Las hemos relacionado de la siguiente manera:
 La tabla Pilotos la hemos relacionado con Premios mediante el id_piloto y una relación de uno a varios, tambien se ha relacionado con la tabla Escuderia mediante el id_piloto con una relación uno a varios.
 Despues hemos relaciona la tabla Fabricantes con Escuderia mediante el id_escuderia con una relación de uno a varios.
@@ -178,17 +182,9 @@ La tabla Premios salen dos relaciones, una con la tabla Puntos mediante relacion
 La tabla Competiciones se relaciona con Premios mediante id_competicion con relacion 1 a varios.
 La tabla Circuitos se relaciona con Competicones mediante id_circuito con relacion uno a uno.
 
-### RELACIÓN TABLAS BD
-En esta sección podemos ver como hemos relacionado los datos y como es el resultado del diseño de nuestra base de datos.
-![Diseño de tablas](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Dise%C3%B1o%20de%20tablas/Picsart_22-12-25_18-47-23-281.jpg)
-
 ### INSERTAR DATOS
 Para comprobar que la base de datos no tenga un fallo de diseño y nos de algún tipo de dato redundante, hemos decidido insertar los datos de un piloto para ver como se comportaban las tablas.
 Tenemos que mencionar que es muy parecido la  creación de tablas a Oracle SQL lo único que cambia es  que los tipos de datos numéricos se ponen con un int  y las restricciones se ponen sin un constraint y un nombre de restricción si no que se pone directamente la restricción.
 
-## CONEXIÓN
-Conexión de MySQL con datagrip
-
 ## CONCLUSIONES
-
 La principal conclusión es que en el ambito laboral vamos a necesitar el trabajo en equipo como en este proyecto, que git es una herramienta muy util para esta tarea y que tendremos que aprender a movernos por distintos tipos de herramientas como MariaDB en el futuro, es decir, que seamos flexibles a la hora de aprender cosas nuevas y mejorar nuestras capacidades tanto para el trabajo en equipo como para el diseño de bases de datos.
