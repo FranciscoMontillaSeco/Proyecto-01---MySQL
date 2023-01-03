@@ -168,6 +168,7 @@ Para finalizar y comprobar que hemos hecho todos los pasos correctamente os debe
 ## DISEÑO  
 Diseño de la base de datos, tablas y esquemas y relacion de los datos.  
 
+
 ### CREACIÓN DE TABLAS
 Hemos creado siete tablas con sus respectivas relaciones y restricciones.
 Las hemos relacionado de la siguiente manera:
@@ -178,8 +179,11 @@ La tabla Competiciones se relaciona con Premios mediante id_competicion con rela
 La tabla Circuitos se relaciona con Competicones mediante id_circuito con relacion uno a uno.
 
 ### RELACIÓN TABLAS BD
+En esta sección podemos ver como hemos relacionado los datos y como es el resultado del diseño de nuestra base de datos.
+![Diseño de tablas](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Dise%C3%B1o%20de%20tablas/Picsart_22-12-25_18-47-23-281.jpg)
 
 ### INSERTAR DATOS
+Para comprobar que la base de datos no tenga un fallo de diseño y nos de algún tipo de dato redundante, hemos decidido insertar los datos de un piloto para ver como se comportaban las tablas.
 Tenemos que mencionar que es muy parecido la  creación de tablas a Oracle SQL lo único que cambia es  que los tipos de datos numéricos se ponen con un int  y las restricciones se ponen sin un constraint y un nombre de restricción si no que se pone directamente la restricción.
 
 ## CONEXIÓN
@@ -187,3 +191,4 @@ Conexión de MySQL con datagrip
 
 ## CONCLUSIONES
 
+La principal conclusión es que en el ambito laboral vamos a necesitar el trabajo en equipo como en este proyecto, que git es una herramienta muy util para esta tarea y que tendremos que aprender a movernos por distintos tipos de herramientas como MariaDB en el futuro, es decir, que seamos flexibles a la hora de aprender cosas nuevas y mejorar nuestras capacidades tanto para el trabajo en equipo como para el diseño de bases de datos.
