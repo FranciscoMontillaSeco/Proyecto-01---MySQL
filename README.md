@@ -193,10 +193,10 @@ La principal conclusión es que en el ambito laboral vamos a necesitar el trabaj
 > _"A la hora de crear tablas me a resultado algo complejo ya que al principio las estaba intentando crera con el codigo que hemos visto en clase, hasta que me he dado cuenta que habia que utilizar otros parametros ya que era muy diferente a **ORACLE**. A la hora de insertar datos tambien cambia un poco como hemos explicado en el apartado de **INSERTAR DATOS**, pero aun asi me a resultado una practica muy buena para mejorar el trabajo en grupo, aprender y conocer el funcionamiento del MariaDB ya que en un futuro nos vendra bien conocer diferentes programas y su funcionamiento."_  
 
 ### CONCLUSIÓN ÁLVARO FERNÁNDEZ:  
-> _""_  
+> _"Mi conclusión final sobre este proyecto es que nos ha complicado mucho la vida pero esto mismo nos pasará en nuestro futuro trabajo todos los días y lo veo bastante bien ya que entre nosotros cuatro nos hemos tenido que poner de acuerdo en repartir los roles del grupo y organizarnos el trabjo cada uno. En mi caso yo me he tenido que aprender un nuevo lenguaje que nuca antes lo había visto quese llama **MARKDOWN** y gracias a esto he podido crear este readme.md y ayudar a mis compañeros respecto a esta parte del proyecto."_  
 
 ### CONCLUSIÓN PABLO DÍAZ:  
-> _""_  
+> _"**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Proin risus tellus, suscipit et nisi at, iaculis pretium magna. Curabitur consectetur ipsum arcu, sit amet pellentesque libero hendrerit vel. Aliquam ut dolor pharetra, mattis urna eu, luctus tellus. Etiam et nisi ut odio auctor maximus nec vitae velit. Nunc suscipit feugiat mattis."_  
 
 ### CONCLUSIÓN FRANCISCO MONTILLA:  
-> _""_  
+> _"**Lorem ipsum** donec tempus augue ligula. Vestibulum luctus pellentesque diam, quis ullamcorper mauris consectetur nec. Proin et viverra risus, sit amet dapibus orci. Phasellus et velit sodales, faucibus quam et, pellentesque diam. Vivamus id blandit enim. Proin eleifend, dui vel luctus pellentesque, ligula dui sagittis lacus, ut facilisis ligula nulla congue odio. Curabitur sit amet nunc turpis."_  
