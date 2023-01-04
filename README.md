@@ -2,7 +2,7 @@
 
 PROYECTO A CARGO DE _FRANCISCO MONTILLA, SERGIO MAYO, PABLO DIAZ Y ÁLVARO FERNÁNDEZ_
 
-## **INSTALACIÓN DE MySQL Y MariaDB**
+## **$\textcolor{blue}{INSTALACIÓN\ DE\ MySQL\ Y\ MariaDB}$**  
 Hemos elegido el poder hacer nuestro proyecto con la base de datos de **MariaDB** sobre _MySQL_ por tres razones que son las siguientes:
 
 1. **MariaDB OFRECE MEDIDAS DE SEGURIDAD MÁS ESTRICTAS**  
@@ -36,7 +36,7 @@ Una vez que se nos ha descargado el paquete instalador de MariaDB nos saldrá es
 
 ![instalacion_paso2](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/2.png)
 
-#### **PAASO 3**:
+#### **PASO 3**:
 En este paso nos habla del tipo de licencia que utiliza MariaDB el cual es un tipo de licencia _GNU*_ la cual deberemos de aceptar el recuadrito que nos dice en inglés _"I accept the terms in the License Agreement"_ lo cual aquí estaremos aprobando los términos de la licencia. Una vez aceptados daremos al botón de next.  
 >_* La Licencia Pública General de GNU o más conocida por su nombre en inglés GNU General Public License es una licencia de derecho de autor ampliamente usada en el mundo del software libre y código abierto, y garantiza a los usuarios finales la libertad de usar, estudiar, compartir y modificar el software._  
 
@@ -73,7 +73,7 @@ Una vez cerrado el instalador de MariaDB podemos observar que se nos ha creado e
 ![instalacion_paso9](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/9.png)
 
 
-## HEIDI SQL
+## **$\textcolor{blue}{HEIDI\ SQL}$**  
 #### ¿QUE ES HEIDI SQL?  
 HeidiSQL, inicialmente conocido como MySQL-Front, es un software libre y de código abierto que permite conectarse a MySQL, así como Microsoft SQL Server y PostgreSQL. MySQL-Front comenzó a ser desarrollado en Delphi por el programador alemán Ansgar Becker, quién por motivos personales dejó el proyecto sin terminar.  
 
@@ -126,7 +126,7 @@ Ahora ya tendremos todos los privilegios sobre esta base de datos y podremos gua
 ![configuración_paso9](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/Heidi%20sql/9.png)
 
 
-## DATAGRIP
+## **$\textcolor{blue}{DATAGRIP}$**  
 #### ¿QUE ES DATAGRIP?  
 Es un entorno de desarrollo integrado (IDE) para desarrolladores de bases de datos, que proporciona una consola de consulta, navegación de esquemas, planes de explicación, finalización de código inteligente, análisis en tiempo real y correcciones rápidas, refactorizaciones, integración del control de versiones y otras características.  
 
@@ -166,15 +166,10 @@ Para finalizar y comprobar que hemos hecho todos los pasos correctamente podremo
 ![configuración_paso6](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Mariadb/datagrip/6.png)  
 
 
-## DISEÑO  
+## **$\textcolor{blue}{DISEÑO}$**  
 Diseño de la base de datos, tablas y esquemas y relacion de los datos.  
 
-### RELACIÓN TABLAS BD
-En esta sección podemos ver como hemos relacionado los datos y como es el resultado del diseño de nuestra base de datos.  
-
-![Diseño de tablas](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Dise%C3%B1o%20de%20tablas/Picsart_22-12-25_18-47-23-281.jpg)
-
-### CREACIÓN DE TABLAS
+## **$\textcolor{blue}{CREACIÓN\ DE\ TABLAS}$**  
 Hemos creado siete tablas con sus respectivas relaciones y restricciones.
 Todo esto, quedará recogido en el documento .sql del proyecto.
 Las hemos relacionado de la siguiente manera:
@@ -182,13 +177,18 @@ La tabla Pilotos la hemos relacionado con Premios mediante el id_piloto y una re
 Despues hemos relaciona la tabla Fabricantes con Escuderia mediante el id_escuderia con una relación de uno a varios.
 La tabla Premios salen dos relaciones, una con la tabla Puntos mediante relacion uno a uno y con la columna Posicion.
 La tabla Competiciones se relaciona con Premios mediante id_competicion con relacion 1 a varios.
-La tabla Circuitos se relaciona con Competicones mediante id_circuito con relacion uno a uno.
+La tabla Circuitos se relaciona con Competicones mediante id_circuito con relacion uno a uno.  
 
-### INSERTAR DATOS
+## **$\textcolor{blue}{RELACIÓN\ TABLAS\ BD}$**  
+En esta sección podemos ver como hemos relacionado los datos y como es el resultado del diseño de nuestra base de datos.  
+
+![Diseño de tablas](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Dise%C3%B1o%20de%20tablas/Picsart_22-12-25_18-47-23-281.jpg)
+
+## **$\textcolor{blue}{INSERTAR\ DATOS}$**  
 Para comprobar que la base de datos no tenga un fallo de diseño y nos de algún tipo de dato redundante, hemos decidido insertar los datos de un piloto para ver como se comportaban las tablas.
 Tenemos que mencionar que es muy parecido la  creación de tablas a Oracle SQL lo único que cambia es  que los tipos de datos numéricos se ponen con un int  y las restricciones se ponen sin un constraint y un nombre de restricción si no que se pone directamente la restricción.
 
-## CONCLUSIONES
+## **$\textcolor{blue}{CONCLUSIONES}$**  
 La principal conclusión es que en el ambito laboral vamos a necesitar el trabajo en equipo como en este proyecto, que git es una herramienta muy util para esta tarea y que tendremos que aprender a movernos por distintos tipos de herramientas como MariaDB en el futuro, es decir, que seamos flexibles a la hora de aprender cosas nuevas y mejorar nuestras capacidades tanto para el trabajo en equipo como para el diseño de bases de datos.
 
 ### CONCLUSIÓN SERGIO MAYO:  
