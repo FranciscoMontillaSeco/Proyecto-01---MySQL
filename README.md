@@ -190,4 +190,13 @@ Tenemos que mencionar que es muy parecido la  creación de tablas a Oracle SQL l
 La principal conclusión es que en el ambito laboral vamos a necesitar el trabajo en equipo como en este proyecto, que git es una herramienta muy util para esta tarea y que tendremos que aprender a movernos por distintos tipos de herramientas como MariaDB en el futuro, es decir, que seamos flexibles a la hora de aprender cosas nuevas y mejorar nuestras capacidades tanto para el trabajo en equipo como para el diseño de bases de datos.
 
 ### CONCLUSIÓN SERGIO MAYO:  
-> _"A la hora de crear tablas me a resultado algo complejo ya que al principio las estaba intentando crera con el codigo que hemos visto en clase, hasta que me he dado cuenta que habia que utilizar otros parametros ya que era muy diferente a **ORACLE**. A la hora de insertar datos tambien cambia un poco como hemos explicado en el apartado de **INSERTAR DATOS**, pero aun asi me a resultado una practica muy buena para mejorar el trabajo en grupo, aprender y conocer el funcionamiento del MariaDB ya que en un futuro nos vendra bien conocer diferentes programas y su funcionamiento."_
+> _"A la hora de crear tablas me a resultado algo complejo ya que al principio las estaba intentando crera con el codigo que hemos visto en clase, hasta que me he dado cuenta que habia que utilizar otros parametros ya que era muy diferente a **ORACLE**. A la hora de insertar datos tambien cambia un poco como hemos explicado en el apartado de **INSERTAR DATOS**, pero aun asi me a resultado una practica muy buena para mejorar el trabajo en grupo, aprender y conocer el funcionamiento del MariaDB ya que en un futuro nos vendra bien conocer diferentes programas y su funcionamiento."_  
+
+### CONCLUSIÓN ÁLVARO FERNÁNDEZ:  
+> _""_  
+
+### CONCLUSIÓN PABLO DÍAZ:  
+> _""_  
+
+### CONCLUSIÓN FRANCISCO MONTILLA:  
+> _""_  
