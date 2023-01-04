@@ -2,7 +2,7 @@
 PROYECTO A CARGO DE _FRANCISCO MONTILLA, SERGIO MAYO, PABLO DIAZ Y ÁLVARO FERNÁNDEZ_
 
 ## **INSTALACIÓN DE MySQL Y MariaDB**
-Hemos elegido el poder hacer nuestro proyecto con la base de datos de -**MariaDB**- sobre _MySQL_ por tres razones que son las siguientes:
+Hemos elegido el poder hacer nuestro proyecto con la base de datos de <span style="color:orange;"> **MariaDB** </span> sobre _MySQL_ por tres razones que son las siguientes:
 
 1. **MariaDB OFRECE MEDIDAS DE SEGURIDAD MÁS ESTRICTAS**  
 La seguridad es una preocupación importante para cualquier propietario de un sitio web. Los intentos de piratería están aumentando cada año, y una violación puede tener serias consecuencias. Como resultado, es importante asegurarse de que su software de administración de bases de datos esté debidamente protegido.  
