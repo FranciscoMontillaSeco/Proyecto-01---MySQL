@@ -8,10 +8,10 @@ Hemos elegido el poder hacer nuestro proyecto con la base de datos de **MariaDB*
 La seguridad es una preocupación importante para cualquier propietario de un sitio web. Los intentos de piratería están aumentando cada año, y una violación puede tener serias consecuencias. Como resultado, es importante asegurarse de que su software de administración de bases de datos esté debidamente protegido.  
 La actualización más reciente de MySQL incluyó algunas características nuevas centradas en la seguridad. Sin embargo, MariaDB viene con una gama mucho más amplia de medidas de seguridad adicionales, que incluyen:  
 
-* Seguridad interna y verificación de contraseña
-* Autenticación PAM y LDAP
-* Roles del usuario
-* Cifrado de la base de datos
+* Seguridad interna y verificación de contraseña.
+* Autenticación PAM y LDAP.
+* Roles del usuario.
+* Cifrado de la base de datos.
 
 2. **EL RENDIMIENTO ES MÁS RÁPIDO Y MÁS EFICIENTE**  
 El rendimiento de su sitio es increíblemente importante, especialmente cuando se trata de velocidades de carga. Por ejemplo, la mayoría de los usuarios esperan que un sitio web se cargue en menos de dos segundos. No alcanzar esa marca podría resultar en una alta ‘tasa de rebote’ (el número de personas que abandonan su sitio de inmediato), así como numerosos problemas adicionales.  
@@ -169,7 +169,8 @@ Para finalizar y comprobar que hemos hecho todos los pasos correctamente podremo
 Diseño de la base de datos, tablas y esquemas y relacion de los datos.  
 
 ### RELACIÓN TABLAS BD
-En esta sección podemos ver como hemos relacionado los datos y como es el resultado del diseño de nuestra base de datos.
+En esta sección podemos ver como hemos relacionado los datos y como es el resultado del diseño de nuestra base de datos.  
+
 ![Diseño de tablas](https://github.com/FranciscoMontillaSeco/Proyecto-01---MySQL/blob/main/Imagenes/Dise%C3%B1o%20de%20tablas/Picsart_22-12-25_18-47-23-281.jpg)
 
 ### CREACIÓN DE TABLAS
