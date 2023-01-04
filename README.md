@@ -1,4 +1,5 @@
-# **MOTO GP 2022 | MySQL**
+# **$\colorbox{blue}{{\color{white}{MOTO\ GP\ 2022\ |\ MySQL}}}$**  
+
 PROYECTO A CARGO DE _FRANCISCO MONTILLA, SERGIO MAYO, PABLO DIAZ Y ÁLVARO FERNÁNDEZ_
 
 ## **INSTALACIÓN DE MySQL Y MariaDB**
